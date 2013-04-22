@@ -1,3 +1,6 @@
+# Where I keep squarespace
+export SQUARESPACE_HOME=~/Squarespace/
+
 # NODE_PATH tells Node.js where to look for modules. This means you can do things like
 # `var client = require 'redis-client'` instead of specifying the full path.
 export NODE_PATH="/usr/local/lib/node"
