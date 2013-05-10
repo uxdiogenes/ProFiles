@@ -19,3 +19,14 @@
 /Squarespace/
 /.dropbox/
 /.bash_history
+.adobe*
+Personal*
+Google Drive*
+Creative Cloud Files*
+.node-gyp*
+.codeintel*
+.cups*
+/.dbshell
+.lighttable*
+.m2*
+.meteor*
