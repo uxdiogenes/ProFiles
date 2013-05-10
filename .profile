@@ -5,6 +5,11 @@ export NODE_PATH="/usr/local/lib/node"
 # brew, npm, then everything else
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/local/share/npm/bin:$PATH
 
+# default text editor
+# run this to activate sub first
+# ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+export EDITOR='subl -w'
+
 
 # Squarespace
 #########################
