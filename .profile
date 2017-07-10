@@ -14,10 +14,10 @@ export EDITOR='subl -w'
 # Squarespace
 #########################
 # Where I keep squarespace
-export SQUARESPACE_HOME=~/Squarespace/
+#export SQUARESPACE_HOME=~/Squarespace/
 
 # Java home for maven
-export JAVA_HOME=`/usr/libexec/java_home`
+#export JAVA_HOME=`/usr/libexec/java_home`
 
 # Make sure JVMs started from Maven have appropriate heap and permgen sizes.
-export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=512M"
+#export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=512M"
